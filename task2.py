@@ -23,3 +23,11 @@ Enter a word: virus
 
 ['apple', 'worm', 'dollar', 'shingle', 'virus']
 """
+
+list("apple", "worm", "dollar", "shingle", "virus"))
+input("apple")
+input("worm")
+input("dollar")
+input("shingle")
+input("virus")
+

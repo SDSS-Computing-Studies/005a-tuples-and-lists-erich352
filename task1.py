@@ -22,6 +22,8 @@ Enter the index for an animal:2
 The animal at that index is Dog
 """
 
+list=("Cat", "Fish", "Dog", "Bear", "Turtle")
+list.sort
+print(list)
 
-
-animals =
+print(list[1])
